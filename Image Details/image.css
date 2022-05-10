@@ -1,0 +1,19 @@
+#image {
+    width: 650px;
+    height: 70px;
+    border: 5px solid pink;
+    background-color: black;
+    background-repeat: no-repeat;
+    color: white;
+    background-size: 100%;
+    font-family: Didot;
+    font-size: 150%;
+    line-height: 60px;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
